@@ -224,7 +224,7 @@ mapboxgl.accessToken =
 
 var map = new mapboxgl.Map({
   container: "map",
-  style: "mapbox://styles/samanthalevi/ckppg20d70xtg18psmepjpzc1",
+  style: "mapbox://styles/samanthalevi/ckpyb6fsf1wsy17lmsef4f9g9",
   center: [11.5690239, 48.14],
   zoom: 1.5,
 });
@@ -1874,14 +1874,10 @@ geojson.features.forEach(function (marker) {
 function removeMapArc() {
   if (map.getLayer("route")) {
     map.removeLayer("route");
-  }
-  if (map.getSource("route")) {
     map.removeSource("route");
   }
   if (map.getLayer("point")) {
     map.removeLayer("point");
-  }
-  if (map.getSource("point")) {
     map.removeSource("point");
   }
 }
