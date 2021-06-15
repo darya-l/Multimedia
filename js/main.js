@@ -240,262 +240,6 @@ var geojson = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.9808545112378,
-          41.47716538114105
-        ]
-      },
-      "properties": {
-        "globalid": "4de57415-592b-49ff-88c0-c518ff77007d",
-        "CreationDa": "2021-05-26T00:00:00.000Z",
-        "Creator": "ge79caw_tu_muenchen",
-        "EditDate": "2021-05-26T00:00:00.000Z",
-        "Editor": "ge79caw_tu_muenchen",
-        "how_old_ar": "19_25",
-        "what_do_yo": "student",
-        "what_is_yo": "english",
-        "how_often_": "Every_day",
-        "how_do_you": 5,
-        "have_you_e": "Yes",
-        "if_so_what": "covid",
-        "what_do__1": "Professor Meng",
-        "does_somet": "ew Mercator",
-        "would_you_": "No",
-        "email": "",
-        "what_is__1": "",
-        "what_is__2": "",
-        "what_is__3": "",
-        "do_you_thi": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.74350709285343,
-          26.212005536978072
-        ]
-      },
-      "properties": {
-        "globalid": "618cc528-bf21-494b-898f-db490555d0ff",
-        "CreationDa": "2021-05-26T00:00:00.000Z",
-        "Creator": "ge79zac_tu_muenchen",
-        "EditDate": "2021-05-26T00:00:00.000Z",
-        "Editor": "ge79zac_tu_muenchen",
-        "how_old_ar": "46+",
-        "what_do_yo": "Watch High School Musical movies",
-        "what_is_yo": "Trying out non latin characters: فقث вры αηδ ������",
-        "how_often_": "Never",
-        "how_do_you": 1,
-        "have_you_e": "No",
-        "if_so_what": "",
-        "what_do__1": "������",
-        "does_somet": "Fuck Antartic is so big",
-        "would_you_": "Yes",
-        "email": "fakemail@fake.tv",
-        "what_is__1": "",
-        "what_is__2": "",
-        "what_is__3": "",
-        "do_you_thi": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.562164151853953,
-          53.946176284004395
-        ]
-      },
-      "properties": {
-        "globalid": "19628135-fe6e-4ab3-865f-7f02896dda22",
-        "CreationDa": "2021-05-26T00:00:00.000Z",
-        "Creator": "",
-        "EditDate": "2021-05-26T00:00:00.000Z",
-        "Editor": "",
-        "how_old_ar": "26_35",
-        "what_do_yo": "I am GIS specialist, currently do masters in Cartography",
-        "what_is_yo": "Russian",
-        "how_often_": "Every_day",
-        "how_do_you": 5,
-        "have_you_e": "Yes",
-        "if_so_what": "Different king of maps, for navigation, for urban design",
-        "what_do__1": "smth about maps",
-        "does_somet": "Greeeeeeeenland",
-        "would_you_": "Yes",
-        "email": "dash.lappo@yandex.ru",
-        "what_is__1": "",
-        "what_is__2": "",
-        "what_is__3": "",
-        "do_you_thi": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.725881458623014,
-          53.94142981109448
-        ]
-      },
-      "properties": {
-        "globalid": "3fa39077-cb65-460b-83b5-920ead67372b",
-        "CreationDa": "2021-06-06T00:00:00.000Z",
-        "Creator": "",
-        "EditDate": "2021-06-06T00:00:00.000Z",
-        "Editor": "",
-        "how_old_ar": "19_25",
-        "what_do_yo": "Working at rideshare company",
-        "what_is_yo": "Belarusian",
-        "how_often_": "Every_day",
-        "how_do_you": 5,
-        "have_you_e": "Yes",
-        "if_so_what": "Just a city plan",
-        "what_do__1": "My professional skills, as i am a cartographer",
-        "does_somet": "Mercator's projection has distortion near the poles",
-        "would_you_": "Yes",
-        "email": "tanysha_3333@mail.ru",
-        "what_is__1": "",
-        "what_is__2": "",
-        "what_is__3": "",
-        "do_you_thi": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.47633934381876,
-          53.899305263822825
-        ]
-      },
-      "properties": {
-        "globalid": "1a764c2f-83e3-4e6d-8350-ef553cb93118",
-        "CreationDa": "2021-06-06T00:00:00.000Z",
-        "Creator": "",
-        "EditDate": "2021-06-06T00:00:00.000Z",
-        "Editor": "",
-        "how_old_ar": "19_25",
-        "what_do_yo": "Economist, tender specialist",
-        "what_is_yo": "Russian",
-        "how_often_": "Every_day",
-        "how_do_you": 5,
-        "have_you_e": "No",
-        "if_so_what": "",
-        "what_do__1": "Sphere of science on maps creation",
-        "does_somet": "Strange colours makes it difficult to understand whether the map is accurate or not.",
-        "would_you_": "Yes",
-        "email": "tatyana_soubotch@mail.ru",
-        "what_is__1": "",
-        "what_is__2": "",
-        "what_is__3": "",
-        "do_you_thi": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.33662693036324,
-          33.72768799278252
-        ]
-      },
-      "properties": {
-        "globalid": "95981149-3b11-4854-8150-9f647635aa58",
-        "CreationDa": "2021-06-08T00:00:00.000Z",
-        "Creator": "",
-        "EditDate": "2021-06-08T00:00:00.000Z",
-        "Editor": "",
-        "how_old_ar": "46+",
-        "what_do_yo": "Ärtzin",
-        "what_is_yo": "",
-        "how_often_": "Every_day",
-        "how_do_you": 5,
-        "have_you_e": "No",
-        "if_so_what": "",
-        "what_do__1": "I think of a person at a large table, drawing a map by hand.",
-        "does_somet": "Yes, Greenland and Antarctica are too large",
-        "would_you_": "Yes",
-        "email": "Levicarol6@gmail.com",
-        "what_is__1": "English",
-        "what_is__2": "",
-        "what_is__3": "",
-        "do_you_thi": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.39731165296544,
-          33.974633316507614
-        ]
-      },
-      "properties": {
-        "globalid": "76fb530f-1f98-4e90-809e-4adeb9957a99",
-        "CreationDa": "2021-06-08T00:00:00.000Z",
-        "Creator": "",
-        "EditDate": "2021-06-08T00:00:00.000Z",
-        "Editor": "",
-        "how_old_ar": "26_35",
-        "what_do_yo": "Business Analytics",
-        "what_is_yo": "",
-        "how_often_": "Every_day",
-        "how_do_you": 5,
-        "have_you_e": "Yes",
-        "if_so_what": "Directions in my neighborhood",
-        "what_do__1": "Map making, sailing ships",
-        "does_somet": "Forest/desert/ice dispersion seems off",
-        "would_you_": "Yes",
-        "email": "saraclevi@gmail.com",
-        "what_is__1": "English",
-        "what_is__2": "",
-        "what_is__3": "",
-        "do_you_thi": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.63244999999995,
-          41.884250000000065
-        ]
-      },
-      "properties": {
-        "globalid": "268f30b7-6a56-444e-8709-61f001e22abc",
-        "CreationDa": "2021-06-08T00:00:00.000Z",
-        "Creator": "",
-        "EditDate": "2021-06-08T00:00:00.000Z",
-        "Editor": "",
-        "how_old_ar": "19_25",
-        "what_do_yo": "Software support team",
-        "what_is_yo": "",
-        "how_often_": "Once_a_week",
-        "how_do_you": 5,
-        "have_you_e": "No",
-        "if_so_what": "",
-        "what_do__1": "Cartography makes me think of old-school mapping, with explorers and sailors and compasses",
-        "does_somet": "Yes",
-        "would_you_": "Yes",
-        "email": "Carolyn.levi7@gmail.com",
-        "what_is__1": "English",
-        "what_is__2": "",
-        "what_is__3": "",
-        "do_you_thi": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.40736522319824,
           40.83348506168287
         ]
@@ -1992,6 +1736,102 @@ var geojson = {
         "what_is__1": "Chinese",
         "what_is__2": "",
         "what_is__3": "Not sure yet",
+        "do_you_thi": "essential_to_daily_life"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.96667000000002,
+          28.200000000000053
+        ]
+      },
+      "properties": {
+        "globalid": "9240b088-2cd0-49e5-84b3-fd748f487d4e",
+        "CreationDa": "2021-06-11T00:00:00.000Z",
+        "Creator": "",
+        "EditDate": "2021-06-11T00:00:00.000Z",
+        "Editor": "",
+        "how_old_ar": "26_35",
+        "what_do_yo": "Masters student",
+        "what_is_yo": "",
+        "how_often_": "Every_day",
+        "how_do_you": 5,
+        "have_you_e": "Yes",
+        "if_so_what": "how the covid-19 pandemic spread in Europe and the corresponding precautions, for the course Project Map Creation",
+        "what_do__1": "An interdisciplinary subject or research area about the roles maps play in art, science, and technology",
+        "does_somet": "Greenland looks a lot larger than Australia which is geographically incorrect (it's a side-effect of the projection used to create this map)",
+        "would_you_": "Yes",
+        "email": "sherrysweety213@gmail.com",
+        "what_is__1": "Chinese",
+        "what_is__2": "",
+        "what_is__3": "Not sure yet, but at least I would like to visit Italy once while I am still in Europe",
+        "do_you_thi": "important_for_many_tasks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.566772759619623,
+          53.21829279436918
+        ]
+      },
+      "properties": {
+        "globalid": "691964f7-d96a-4f04-8b9d-cabac10fe454",
+        "CreationDa": "2021-06-11T00:00:00.000Z",
+        "Creator": "",
+        "EditDate": "2021-06-11T00:00:00.000Z",
+        "Editor": "",
+        "how_old_ar": "19_25",
+        "what_do_yo": "Student",
+        "what_is_yo": "",
+        "how_often_": "Every_day",
+        "how_do_you": 5,
+        "have_you_e": "Yes",
+        "if_so_what": "Hiking map in Sweden",
+        "what_do__1": "Making maps <3",
+        "does_somet": "A lot seems inaccurate",
+        "would_you_": "Yes",
+        "email": "vivienvdongen@gmail.com",
+        "what_is__1": "Dutch",
+        "what_is__2": "",
+        "what_is__3": "Iceland (not a particular city)",
+        "do_you_thi": "essential_to_daily_life"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.54792928693134,
+          35.536469384550486
+        ]
+      },
+      "properties": {
+        "globalid": "4c34b26a-6c5a-48d3-83ab-6867d411a757",
+        "CreationDa": "2021-06-11T00:00:00.000Z",
+        "Creator": "",
+        "EditDate": "2021-06-11T00:00:00.000Z",
+        "Editor": "",
+        "how_old_ar": "19_25",
+        "what_do_yo": "Video Game Developer",
+        "what_is_yo": "",
+        "how_often_": "Once_a_week",
+        "how_do_you": 5,
+        "have_you_e": "Yes",
+        "if_so_what": "I've created a few maps for games I've made, of both fictional and real places, but was never focused on accuracy.",
+        "what_do__1": "I think of people sailing across the world, creating maps as they find new areas they've never seen. I think of older, fancier looking maps with a picture of a whale in the ocean and a big compass in the corner.",
+        "does_somet": "Not as far as I can tell.",
+        "would_you_": "Yes",
+        "email": "pt92528@gmail.com",
+        "what_is__1": "English",
+        "what_is__2": "",
+        "what_is__3": "Oshino Hakkai, Japan",
         "do_you_thi": "essential_to_daily_life"
       }
     }
