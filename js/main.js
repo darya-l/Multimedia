@@ -1872,10 +1872,18 @@ geojson.features.forEach(function (marker) {
 });
 
 function removeMapArc() {
-  map.removeLayer("route");
-  map.removeSource("route");
-  map.removeLayer("point");
-  map.removeSource("point");
+  try {
+    map.removeLayer("route");
+  } catch (err) { }
+  try {
+    map.removeSource("route");
+  } catch (err) { }
+  try {
+    map.removeLayer("point");
+  } catch (err) { }
+  try {
+    map.removeSource("point");
+  } catch (err) { }
 }
 
 function mapArc(origin, destination) {
@@ -1934,93 +1942,93 @@ function mapArc(origin, destination) {
   map.addSource('route', {
     'type': 'geojson',
     'data': route
-    });
-     
-    map.addSource('point', {
+  });
+
+  map.addSource('point', {
     'type': 'geojson',
     'data': point
-    });
-     
-    map.addLayer({
+  });
+
+  map.addLayer({
     'id': 'route',
     'source': 'route',
     'type': 'line',
     'paint': {
-    'line-width': 2,
-    'line-color': '#007cbf'
+      'line-width': 2,
+      'line-color': '#007cbf'
     }
-    });
-     
-    map.addLayer({
+  });
+
+  map.addLayer({
     'id': 'point',
     'source': 'point',
     'type': 'symbol',
     'layout': {
-    // This icon is a part of the Mapbox Streets style.
-    // To view all images available in a Mapbox style, open
-    // the style in Mapbox Studio and click the "Images" tab.
-    // To add a new image to the style at runtime see
-    // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
-    'icon-image': 'airport-15',
-    'icon-rotate': ['get', 'bearing'],
-    'icon-rotation-alignment': 'map',
-    'icon-allow-overlap': true,
-    'icon-ignore-placement': true
+      // This icon is a part of the Mapbox Streets style.
+      // To view all images available in a Mapbox style, open
+      // the style in Mapbox Studio and click the "Images" tab.
+      // To add a new image to the style at runtime see
+      // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
+      'icon-image': 'airport-15',
+      'icon-rotate': ['get', 'bearing'],
+      'icon-rotation-alignment': 'map',
+      'icon-allow-overlap': true,
+      'icon-ignore-placement': true
     }
-    });
-     
-    function animate() {
+  });
+
+  function animate() {
     var start =
-    route.features[0].geometry.coordinates[
-    counter >= steps ? counter - 1 : counter
-    ];
+      route.features[0].geometry.coordinates[
+      counter >= steps ? counter - 1 : counter
+      ];
     var end =
-    route.features[0].geometry.coordinates[
-    counter >= steps ? counter : counter + 1
-    ];
+      route.features[0].geometry.coordinates[
+      counter >= steps ? counter : counter + 1
+      ];
     if (!start || !end) return;
-     
+
     // Update point geometry to a new position based on counter denoting
     // the index to access the arc
     point.features[0].geometry.coordinates =
-    route.features[0].geometry.coordinates[counter];
-     
+      route.features[0].geometry.coordinates[counter];
+
     // Calculate the bearing to ensure the icon is rotated to match the route arc
     // The bearing is calculated between the current point and the next point, except
     // at the end of the arc, which uses the previous point and the current point
     point.features[0].properties.bearing = turf.bearing(
-    turf.point(start),
-    turf.point(end)
+      turf.point(start),
+      turf.point(end)
     );
-     
+
     // Update the source with this new data
     map.getSource('point').setData(point);
-     
+
     // Request the next frame of animation as long as the end has not been reached
     if (counter < steps) {
-    requestAnimationFrame(animate);
+      requestAnimationFrame(animate);
     }
-     
+
     counter = counter + 1;
-    }
-     
-    document
+  }
+
+  document
     .getElementById('replay')
     .addEventListener('click', function () {
-    // Set the coordinates of the original point back to origin
-    point.features[0].geometry.coordinates = origin;
-     
-    // Update the source layer
-    map.getSource('point').setData(point);
-     
-    // Reset the counter
-    counter = 0;
-     
-    // Restart the animation
-    animate(counter);
+      // Set the coordinates of the original point back to origin
+      point.features[0].geometry.coordinates = origin;
+
+      // Update the source layer
+      map.getSource('point').setData(point);
+
+      // Reset the counter
+      counter = 0;
+
+      // Restart the animation
+      animate(counter);
     });
-     
-    // Start the animation
-    animate(counter);
+
+  // Start the animation
+  animate(counter);
 }
 
