@@ -1872,18 +1872,18 @@ geojson.features.forEach(function (marker) {
 });
 
 function removeMapArc() {
-  try {
+  if (map.getLayer("route")) {
     map.removeLayer("route");
-  } catch (err) { }
-  try {
+  }
+  if (map.getSource("route")) {
     map.removeSource("route");
-  } catch (err) { }
-  try {
+  }
+  if (map.getLayer("point")) {
     map.removeLayer("point");
-  } catch (err) { }
-  try {
+  }
+  if (map.getSource("point")) {
     map.removeSource("point");
-  } catch (err) { }
+  }
 }
 
 function mapArc(origin, destination) {
