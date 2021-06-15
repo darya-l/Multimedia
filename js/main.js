@@ -224,7 +224,7 @@ mapboxgl.accessToken =
 
 var map = new mapboxgl.Map({
   container: "map",
-  style: "mapbox://styles/samanthalevi/ckpyb6fsf1wsy17lmsef4f9g9",
+  style: "mapbox://styles/samanthalevi/ckppg20d70xtg18psmepjpzc1",
   center: [11.5690239, 48.14],
   zoom: 1.5,
 });
@@ -1966,6 +1966,7 @@ function mapArc(origin, destination) {
       // the style in Mapbox Studio and click the "Images" tab.
       // To add a new image to the style at runtime see
       // https://docs.mapbox.com/mapbox-gl-js/example/add-image/
+      //'icon-image': 'plane (2)',
       'icon-image': 'airport-15',
       'icon-rotate': ['get', 'bearing'],
       'icon-rotation-alignment': 'map',
