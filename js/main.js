@@ -1851,11 +1851,12 @@ geojson.features.forEach(function (marker) {
     .setPopup(
       new mapboxgl.Popup({ offset: 25 }) // add popups
         .setHTML(
-          '<h3>' +
-          marker.properties.how_old_ar +
-          '</h3><p>' +
-          marker.properties.what_do_yo +
-          '</p>'
+          "<h3> Hello! </h3>" +
+          
+          "<h5><b>Age:</b></h5>" + "<h5>" + marker.properties.how_old_ar + "</h5"+ "</br>" +
+          "<h5><b>Occupation:</b></h5>" + "<h5>" + marker.properties.what_do_yo + "</h5" + "</br>"+
+          "<h5><b>Mother language:</b></h5>" + "<h5>" + marker.properties.what_is__1 + "</h5>" + "</br>"+
+          "<h5><b>Desired travel destination:</b></h5>" + "<h5>" + marker.properties.what_is__3 + "</h5>"
         )
     )
     .addTo(map);
