@@ -349,7 +349,7 @@ body {
 
   #header {
     position: relative;
-    background-image: url("image/5.png");
+    background-image: url("image/3.jpg");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -623,7 +623,7 @@ body {
   }
 
   .marker {
-  background-image: url('image/mapbox-icon.png');
+  background-image: url('image/home_icon_green.png');
   background-size: cover;
   width: 20px;
   height: 20px;
@@ -684,7 +684,9 @@ body {
     position: relative;
     overflow: hidden;
     padding: 6em 0 6em 0;
-    background: #2A9D8F;
+    background: url("image/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #fff;
   }
 

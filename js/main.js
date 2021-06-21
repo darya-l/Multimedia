@@ -264,7 +264,9 @@ var geojson = {
         "what_is__1": "English",
         "what_is__2": "",
         "what_is__3": "",
-        "do_you_thi": ""
+        "do_you_thi": "",
+        "survey.Dre": "",
+        "Dreamdist": ""
       }
     },
     {
@@ -296,7 +298,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "Atenas",
-        "do_you_thi": ""
+        "do_you_thi": "",
+        "survey.Dre": "",
+        "Dreamdist": "(9.9785, -84.3738)"
       }
     },
     {
@@ -328,7 +332,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "",
-        "do_you_thi": ""
+        "do_you_thi": "",
+        "survey.Dre": "",
+        "Dreamdist": ""
       }
     },
     {
@@ -360,7 +366,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "Australia",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(-33.8688, 151.2093)"
       }
     },
     {
@@ -392,7 +400,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "Singapur",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(1.3984337789484655, 104.05230364280798)"
       }
     },
     {
@@ -424,7 +434,9 @@ var geojson = {
         "what_is__1": "Chinese",
         "what_is__2": "",
         "what_is__3": "Budapest, Hungary",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(47.50788994818607, 19.06953487498422)"
       }
     },
     {
@@ -456,7 +468,9 @@ var geojson = {
         "what_is__1": "Indonesian",
         "what_is__2": "",
         "what_is__3": "Seoul, South Korea",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(37.53854248824406, 126.99434234424281)"
       }
     },
     {
@@ -488,7 +502,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Kyiv, Ukraine",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(50.47157323815116, 30.548483401270797)"
       }
     },
     {
@@ -520,7 +536,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "Zaragoza, Spain",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(41.65560321903314, -0.8845953862505068)"
       }
     },
     {
@@ -552,7 +570,9 @@ var geojson = {
         "what_is__1": "Byelorussian",
         "what_is__2": "",
         "what_is__3": "China",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(33.57608012632844, 104.62083371462647)"
       }
     },
     {
@@ -584,7 +604,9 @@ var geojson = {
         "what_is__1": "Indonesian",
         "what_is__2": "",
         "what_is__3": "London, UK",
-        "do_you_thi": "helpful_in_some_cases"
+        "do_you_thi": "helpful_in_some_cases",
+        "survey.Dre": "",
+        "Dreamdist": "(51.50514078690401, -0.11052503849317225)"
       }
     },
     {
@@ -616,7 +638,9 @@ var geojson = {
         "what_is__1": "Indonesian",
         "what_is__2": "",
         "what_is__3": "Barcelona, Spain",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(41.41320232632406, 2.1942581157542245)"
       }
     },
     {
@@ -648,7 +672,9 @@ var geojson = {
         "what_is__1": "other",
         "what_is__2": "Kazakh",
         "what_is__3": "Maldives",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(-0.3918145752996579, 73.18817399108757)"
       }
     },
     {
@@ -680,7 +706,9 @@ var geojson = {
         "what_is__1": "other",
         "what_is__2": "Georgian",
         "what_is__3": "Vienna, Austria",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(48.22045615607285, 16.390016311612584)"
       }
     },
     {
@@ -712,7 +740,9 @@ var geojson = {
         "what_is__1": "English",
         "what_is__2": "",
         "what_is__3": "Queenstown, New Zealand",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(-45.02973309040349, 168.67044475567576)"
       }
     },
     {
@@ -744,7 +774,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Argentina",
-        "do_you_thi": "helpful_in_some_cases"
+        "do_you_thi": "helpful_in_some_cases",
+        "survey.Dre": "",
+        "Dreamdist": "(-34.649157012967116, -58.86109381497902)"
       }
     },
     {
@@ -776,7 +808,9 @@ var geojson = {
         "what_is__1": "Indonesian",
         "what_is__2": "",
         "what_is__3": "Pacitan, Indonesia",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(-8.204083211398263, 111.0958280669622)"
       }
     },
     {
@@ -808,7 +842,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Italy, Rome",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(41.8914169638076, 12.48278287615542)"
       }
     },
     {
@@ -840,7 +876,9 @@ var geojson = {
         "what_is__1": "Byelorussian",
         "what_is__2": "",
         "what_is__3": "Rasony, Belarus",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(55.857776452057166, 28.840085177120944)"
       }
     },
     {
@@ -872,7 +910,9 @@ var geojson = {
         "what_is__1": "",
         "what_is__2": "",
         "what_is__3": "Maui, USA",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(20.762661719954497, -156.32119712313204)"
       }
     },
     {
@@ -904,7 +944,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Azores",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(38.65695746374252, -27.31125486760089)"
       }
     },
     {
@@ -936,7 +978,9 @@ var geojson = {
         "what_is__1": "Byelorussian",
         "what_is__2": "",
         "what_is__3": "Canada",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(52.45777360648676, -102.41601514721236)"
       }
     },
     {
@@ -968,7 +1012,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "New Delhi, India",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(28.614724251257638, 77.18316770795109)"
       }
     },
     {
@@ -1000,7 +1046,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Germany, Hanover",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(52.382390767694154, 9.743275346325518)"
       }
     },
     {
@@ -1032,7 +1080,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "Spain",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(40.41922930446171, -3.6277253834794254)"
       }
     },
     {
@@ -1064,7 +1114,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "Barcelona",
-        "do_you_thi": "helpful_in_some_cases"
+        "do_you_thi": "helpful_in_some_cases",
+        "survey.Dre": "",
+        "Dreamdist": "(41.3340155387282, 2.0709560567628964)"
       }
     },
     {
@@ -1096,7 +1148,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "Mexico",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(19.3722732043586, -99.04370572672092)"
       }
     },
     {
@@ -1128,7 +1182,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Rotorua, New Zealand",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(-38.13405219728465, 176.2380038425765)"
       }
     },
     {
@@ -1160,7 +1216,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Nirvana",
-        "do_you_thi": "helpful_in_some_cases"
+        "do_you_thi": "helpful_in_some_cases",
+        "survey.Dre": "",
+        "Dreamdist": "(28.41318408309335, 77.06415924002432)"
       }
     },
     {
@@ -1192,7 +1250,9 @@ var geojson = {
         "what_is__1": "Byelorussian",
         "what_is__2": "",
         "what_is__3": "Mongolia",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(45.92557548137917, 102.29490875294452)"
       }
     },
     {
@@ -1224,7 +1284,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "NA",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": ""
       }
     },
     {
@@ -1256,7 +1318,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Porto, Portugal",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(41.15227533261383, -8.629865477106895)"
       }
     },
     {
@@ -1288,7 +1352,9 @@ var geojson = {
         "what_is__1": "Armenian",
         "what_is__2": "",
         "what_is__3": "London, England",
-        "do_you_thi": "helpful_in_some_cases"
+        "do_you_thi": "helpful_in_some_cases",
+        "survey.Dre": "",
+        "Dreamdist": "(51.50514078690401, -0.11052503849317225)"
       }
     },
     {
@@ -1320,7 +1386,9 @@ var geojson = {
         "what_is__1": "Korean",
         "what_is__2": "",
         "what_is__3": "",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": ""
       }
     },
     {
@@ -1352,7 +1420,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "London",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(51.50514078690401, -0.11052503849317225)"
       }
     },
     {
@@ -1384,7 +1454,9 @@ var geojson = {
         "what_is__1": "English",
         "what_is__2": "",
         "what_is__3": "Tokyo, Japan",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(35.67744740466462, 139.75975045330514)"
       }
     },
     {
@@ -1416,7 +1488,9 @@ var geojson = {
         "what_is__1": "Urdu",
         "what_is__2": "",
         "what_is__3": "Dubai, UAE",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(25.158710724706204, 55.23667319663487)"
       }
     },
     {
@@ -1448,7 +1522,9 @@ var geojson = {
         "what_is__1": "Turkish",
         "what_is__2": "",
         "what_is__3": "Wellington, New Zealand",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(-41.32074331191986, 174.79180427247854)"
       }
     },
     {
@@ -1480,7 +1556,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Dublin, Ireland",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(53.345846119654475, -6.274199886369704)"
       }
     },
     {
@@ -1512,7 +1590,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Cape Verde",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(15.205760284057183, -23.667297335123827)"
       }
     },
     {
@@ -1544,7 +1624,9 @@ var geojson = {
         "what_is__1": "Hindi",
         "what_is__2": "",
         "what_is__3": "Monte Carlo, Monaco",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(43.73880508577313, 7.426807299348801)"
       }
     },
     {
@@ -1576,7 +1658,9 @@ var geojson = {
         "what_is__1": "Byelorussian",
         "what_is__2": "",
         "what_is__3": "New Zealand",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(-43.43957204287009, 171.48688625139397)"
       }
     },
     {
@@ -1608,7 +1692,9 @@ var geojson = {
         "what_is__1": "Russian",
         "what_is__2": "",
         "what_is__3": "Reykjavík, Iceland",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(64.13933128989068, -21.904284083037044)"
       }
     },
     {
@@ -1640,7 +1726,9 @@ var geojson = {
         "what_is__1": "Turkish",
         "what_is__2": "",
         "what_is__3": "New york",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(40.72819577903226, -73.90346334419779)"
       }
     },
     {
@@ -1672,7 +1760,9 @@ var geojson = {
         "what_is__1": "English",
         "what_is__2": "",
         "what_is__3": "Singapore",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(1.3984337789484655, 104.05230364280798)"
       }
     },
     {
@@ -1704,7 +1794,9 @@ var geojson = {
         "what_is__1": "Spanish",
         "what_is__2": "",
         "what_is__3": "Girona, Spain",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(41.97916806550551, 2.818238047102243)"
       }
     },
     {
@@ -1736,7 +1828,9 @@ var geojson = {
         "what_is__1": "Chinese",
         "what_is__2": "",
         "what_is__3": "Not sure yet",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": ""
       }
     },
     {
@@ -1768,7 +1862,9 @@ var geojson = {
         "what_is__1": "Chinese",
         "what_is__2": "",
         "what_is__3": "Not sure yet, but at least I would like to visit Italy once while I am still in Europe",
-        "do_you_thi": "important_for_many_tasks"
+        "do_you_thi": "important_for_many_tasks",
+        "survey.Dre": "",
+        "Dreamdist": "(42.51729820996926, 13.041750031452308)"
       }
     },
     {
@@ -1800,7 +1896,9 @@ var geojson = {
         "what_is__1": "Dutch",
         "what_is__2": "",
         "what_is__3": "Iceland (not a particular city)",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(64.13933128989068, -21.904284083037044)"
       }
     },
     {
@@ -1832,7 +1930,9 @@ var geojson = {
         "what_is__1": "English",
         "what_is__2": "",
         "what_is__3": "Oshino Hakkai, Japan",
-        "do_you_thi": "essential_to_daily_life"
+        "do_you_thi": "essential_to_daily_life",
+        "survey.Dre": "",
+        "Dreamdist": "(35.46031438712794, 138.83272047608182)"
       }
     }
   ]
